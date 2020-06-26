@@ -1,0 +1,21 @@
+
+.bloco-dois {
+    padding: 20px;
+    background: khaki;
+}
+
+footer {background: rgb(42,15,0); background: linear-gradient(90deg, rgba(42,15,0,1) 0%, rgba(0,0,0,1) 100%);}
+
+.card-tres {
+    padding: 20px;
+    background: lightgray;
+}
+
+.bloco-quatro {
+
+    padding: 20px 50px;
+}
+
+.bloco-cinco {
+    padding: 20px ;
+}
